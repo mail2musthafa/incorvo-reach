@@ -1,6 +1,6 @@
 # Incorvo Reach — Campaign Pricing & Unit-Economics Calculator
 
-**Operating Entity**: Quenix Analytics Private Limited  
+**Operating Entity**: Incorvo Reach  
 **Model Formula**: $\text{Vendor Payment} - \text{Participant Reward} - \text{Payment Gateway} - \text{Verification SLA} - \text{Fraud Reserve} = \text{Incorvo Net Contribution}$
 
 ---

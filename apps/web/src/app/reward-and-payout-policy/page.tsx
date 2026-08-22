@@ -18,7 +18,7 @@ export default function RewardAndPayoutPolicyPage() {
             </div>
             <div>
               <h1 className="text-2xl sm:text-3xl font-extrabold text-brand-navy">Reward & Payout Policy</h1>
-              <p className="text-xs text-brand-muted">Quenix Analytics Private Limited • Double-Entry Financial Governance</p>
+              <p className="text-xs text-brand-muted">Incorvo Reach • Double-Entry Financial Governance</p>
             </div>
           </div>
 

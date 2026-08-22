@@ -18,7 +18,7 @@ export default function ContentRightsPolicyPage() {
             </div>
             <div>
               <h1 className="text-2xl sm:text-3xl font-extrabold text-brand-navy">Content Rights & UGC Licensing Policy</h1>
-              <p className="text-xs text-brand-muted">Quenix Analytics Private Limited • Commercial Licensing Agreement</p>
+              <p className="text-xs text-brand-muted">Incorvo Reach • Commercial Licensing Agreement</p>
             </div>
           </div>
 

@@ -1,6 +1,6 @@
 # Incorvo Reach — Participant Recruitment & Supply Verification Plan
 
-**Operating Entity**: Quenix Analytics Private Limited  
+**Operating Entity**: Incorvo Reach  
 **Target Milestone**: Initial Pilot Cohort of 300–500 Verified Participants in Hyderabad and Metro Clusters.
 
 ---

@@ -12,12 +12,12 @@ export default function TermsPage() {
       <div className="max-w-4xl mx-auto px-4 py-16">
         <div className="bg-white p-8 sm:p-12 rounded-3xl border border-brand-border shadow-xs space-y-6 text-sm text-slate-700 leading-relaxed">
           <h1 className="text-3xl font-extrabold text-brand-navy">Terms of Service</h1>
-          <p className="text-xs text-brand-muted">Last updated: August 2026 • Quenix Analytics Private Limited</p>
+          <p className="text-xs text-brand-muted">Last updated: August 2026 • Incorvo Reach</p>
 
           <section className="space-y-2">
             <h2 className="text-base font-bold text-brand-navy">1. Platform Nature & Two-Sided Marketplace</h2>
             <p>
-              Incorvo Reach is operated by Quenix Analytics Private Limited. The platform connects verified business vendors requiring measurable customer outcomes (research, qualitative survey feedback, original UGC, store visits, referrals) with willing participants.
+              Incorvo Reach is operated by Incorvo Reach. The platform connects verified business vendors requiring measurable customer outcomes (research, qualitative survey feedback, original UGC, store visits, referrals) with willing participants.
             </p>
           </section>
 

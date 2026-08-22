@@ -186,7 +186,7 @@ export function DashboardLayout({ children, portalType }: DashboardLayoutProps) 
 
           <div className="flex items-center gap-3 text-xs">
             <span className="hidden md:inline text-slate-500 font-medium">
-              Quenix Ledger: <strong className="text-emerald-600">Reconciled</strong>
+              Immutable Ledger: <strong className="text-emerald-600">Reconciled</strong>
             </span>
             <Link
               href="/"

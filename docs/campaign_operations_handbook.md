@@ -1,7 +1,7 @@
 # Incorvo Reach — Campaign Operations Handbook
 
 **Platform Tagline**: *Verified Actions. Measurable Growth.*  
-**Operating Entity**: Quenix Analytics Private Limited  
+**Operating Entity**: Incorvo Reach  
 **Version**: 1.0.0 (Internal Operations Standard)
 
 ---

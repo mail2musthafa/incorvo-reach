@@ -1,6 +1,6 @@
 # Incorvo Reach — Paid Pilot Launch Plan & Operating Milestones
 
-**Operating Entity**: Quenix Analytics Private Limited  
+**Operating Entity**: Incorvo Reach  
 **Scope**: 5 Initial Paid Pilot Frameworks & Marketplace Launch Gates
 
 ---

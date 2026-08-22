@@ -67,12 +67,10 @@ export function Footer() {
           </div>
         </div>
 
-        {/* Bottom copyright & parent company */}
+        {/* Bottom copyright */}
         <div className="pt-8 flex flex-col md:flex-row items-center justify-between text-xs text-slate-500 gap-4">
           <p>© {new Date().getFullYear()} Incorvo Reach. All rights reserved.</p>
-          <p className="flex items-center gap-1.5">
-            A product of <strong className="text-slate-400">Quenix Analytics Private Limited</strong>
-          </p>
+          <p className="text-slate-400">Verified Actions. Measurable Growth.</p>
         </div>
       </div>
     </footer>

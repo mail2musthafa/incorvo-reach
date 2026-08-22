@@ -18,7 +18,7 @@ export default function AcceptableCampaignPolicyPage() {
             </div>
             <div>
               <h1 className="text-2xl sm:text-3xl font-extrabold text-brand-navy">Acceptable Campaign Policy</h1>
-              <p className="text-xs text-brand-muted">Quenix Analytics Private Limited • Enforced on All Campaigns</p>
+              <p className="text-xs text-brand-muted">Incorvo Reach • Enforced on All Campaigns</p>
             </div>
           </div>
 

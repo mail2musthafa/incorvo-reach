@@ -43,6 +43,6 @@ class Settings(BaseSettings):
     # Platform Settings
     PLATFORM_FEE_PERCENTAGE: float = 15.0  # 15% platform commission
     MINIMUM_PAYOUT_INR: float = 500.00
-    PARENT_COMPANY: str = "Quenix Analytics Private Limited"
+    PARENT_COMPANY: str = "Incorvo Reach"
 
 settings = Settings()

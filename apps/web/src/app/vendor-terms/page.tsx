@@ -12,7 +12,7 @@ export default function VendorTermsPage() {
       <div className="max-w-4xl mx-auto px-4 py-16">
         <div className="bg-white p-8 sm:p-12 rounded-3xl border border-brand-border shadow-xs space-y-6 text-sm text-slate-700 leading-relaxed">
           <h1 className="text-3xl font-extrabold text-brand-navy">Vendor Master Agreement</h1>
-          <p className="text-xs text-brand-muted">Quenix Analytics Private Limited • Business Sponsor Terms</p>
+          <p className="text-xs text-brand-muted">Incorvo Reach • Business Sponsor Terms</p>
 
           <section className="space-y-2">
             <h2 className="text-base font-bold text-brand-navy">1. Entity Obligations</h2>

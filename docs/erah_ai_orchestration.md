@@ -1,7 +1,7 @@
 # Incorvo Reach — Erah AI Orchestration Architecture
 
 **System**: Erah AI — Your Incorvo Reach Assistant  
-**Entity**: Quenix Analytics Private Limited  
+**Entity**: Incorvo Reach  
 **Status**: Integrated & Test-Verified  
 
 ---

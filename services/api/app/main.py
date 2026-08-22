@@ -43,7 +43,7 @@ async def add_correlation_and_audit_headers(request: Request, call_next):
     response = await call_next(request)
     process_time = time.time() - start_time
     response.headers["X-Process-Time"] = f"{process_time:.4f}s"
-    response.headers["X-Powered-By"] = "Incorvo Reach / Quenix Analytics"
+    response.headers["X-Powered-By"] = "Incorvo Reach"
     return response
 
 app.include_router(api_v1_router, prefix=settings.API_V1_STR)

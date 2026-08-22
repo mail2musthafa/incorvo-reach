@@ -47,7 +47,7 @@ export default function AdminOverviewPage() {
         <div>
           <h1 className="text-2xl font-black text-brand-navy">Platform Governance & Admin Dashboard</h1>
           <p className="text-xs text-brand-muted mt-0.5">
-            Quenix Analytics compliance monitoring, vendor verification queue, and immutable ledger oversight
+            Incorvo Reach compliance monitoring, vendor verification queue, and immutable ledger oversight
           </p>
         </div>
 

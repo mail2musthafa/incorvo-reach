@@ -14,8 +14,8 @@ const jakarta = Plus_Jakarta_Sans({
 export const metadata: Metadata = {
   title: "Incorvo Reach | Verified Actions. Measurable Growth.",
   description: "Enterprise two-sided marketplace where businesses pay for genuine, verifiable customer actions—research, original content, store visits, referrals and qualified leads. Never fake metrics.",
-  keywords: ["Incorvo Reach", "Verified Actions", "Customer Outcomes", "UGC Marketplace", "Private Research", "Quenix Analytics"],
-  authors: [{ name: "Quenix Analytics Private Limited" }],
+  keywords: ["Incorvo Reach", "Verified Actions", "Customer Outcomes", "UGC Marketplace", "Private Research"],
+  authors: [{ name: "Incorvo Reach" }],
 };
 
 export default function RootLayout({

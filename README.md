@@ -14,7 +14,7 @@
 [![LangGraph](https://img.shields.io/badge/Orchestrator-LangGraph%20v1-FF6F00.svg?style=flat)](https://langchain.com)
 [![Ledger Balance](https://img.shields.io/badge/Ledger%20Invariant-%E2%88%86%20%E2%82%B90.00%20(Balanced)-success.svg)](#17-admin-operations--manual-payout-hub)
 
-**Operated by Quenix Analytics Private Limited**
+**Operated by Incorvo Reach**
 
 </div>
 
@@ -288,7 +288,7 @@ Provides real-time comparative intelligence comparing a vendor's Cost Per Verifi
 </div>
 
 ### Overview
-An enterprise concierge service tier where Quenix Analytics campaign specialists handle end-to-end task drafting, participant vetting, manual verification, and weekly executive reporting.
+An enterprise concierge service tier where Incorvo Reach campaign specialists handle end-to-end task drafting, participant vetting, manual verification, and weekly executive reporting.
 
 ### Capabilities & Key Features
 - Dedicated Campaign Director assignment and 24-hour turnaround SLA.
@@ -624,5 +624,5 @@ npm run dev
 ---
 
 <div align="center">
-© 2026 Quenix Analytics Private Limited. All rights reserved.
+© 2026 Incorvo Reach. All rights reserved.
 </div>

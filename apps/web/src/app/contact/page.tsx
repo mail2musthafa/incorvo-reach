@@ -30,7 +30,7 @@ export default function ContactPage() {
                 <MapPin className="w-4 h-4 text-brand-violet mt-0.5" />
                 <div>
                   <strong className="text-brand-navy block">Registered Entity:</strong>
-                  <span>Quenix Analytics Private Limited</span>
+                  <span>Incorvo Reach</span>
                   <br />
                   <span>Bengaluru & Mumbai, India</span>
                 </div>

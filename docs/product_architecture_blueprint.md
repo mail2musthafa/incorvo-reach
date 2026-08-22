@@ -1,7 +1,7 @@
 # Incorvo Reach — Master Product Architecture Blueprint
 
 **Platform Tagline**: *Verified Actions. Measurable Growth.*  
-**Parent Operating Entity**: Quenix Analytics Private Limited  
+**Parent Operating Entity**: Incorvo Reach  
 **Document Version**: 2.0.0 (Production Blueprint)
 
 ---
