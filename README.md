@@ -14,7 +14,7 @@
 [![LangGraph](https://img.shields.io/badge/Orchestrator-LangGraph%20v1-FF6F00.svg?style=flat)](https://langchain.com)
 [![Ledger Balance](https://img.shields.io/badge/Ledger%20Invariant-%E2%88%86%20%E2%82%B90.00%20(Balanced)-success.svg)](#17-admin-operations--manual-payout-hub)
 
-**Operated by Incorvo Reach**
+**Operated by ABC Company Private Limited**
 
 </div>
 
@@ -624,5 +624,5 @@ npm run dev
 ---
 
 <div align="center">
-© 2026 Incorvo Reach. All rights reserved.
+© 2026 ABC Company Private Limited. All rights reserved.
 </div>

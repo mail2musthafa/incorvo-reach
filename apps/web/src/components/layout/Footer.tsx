@@ -69,7 +69,7 @@ export function Footer() {
 
         {/* Bottom copyright */}
         <div className="pt-8 flex flex-col md:flex-row items-center justify-between text-xs text-slate-500 gap-4">
-          <p>© {new Date().getFullYear()} Incorvo Reach. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} ABC Company Private Limited. All rights reserved.</p>
           <p className="text-slate-400">Verified Actions. Measurable Growth.</p>
         </div>
       </div>

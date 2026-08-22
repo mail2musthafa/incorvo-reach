@@ -7,7 +7,7 @@ async def test_health_endpoint(client: AsyncClient):
     assert response.status_code == 200
     data = response.json()
     assert data["status"] == "healthy"
-    assert data["parent_company"] == "Incorvo Reach"
+    assert data["parent_company"] == "ABC Company Private Limited"
 
 @pytest.mark.asyncio
 async def test_participant_registration_and_login(client: AsyncClient):
