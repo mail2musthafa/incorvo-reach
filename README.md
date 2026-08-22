@@ -22,29 +22,31 @@
 
 ## 📑 Feature-by-Feature Deep Dive Index
 
-1. [Erah AI Multimodal Character & Assistant](#1-erah-ai-multimodal-character--assistant)
-2. [Vendor Executive Overview & Analytics](#2-vendor-executive-overview--analytics)
-3. [Campaign Creation Wizard & Margin Forecaster](#3-campaign-creation-wizard--margin-forecaster)
-4. [Incorvo Research Studio (vs UserTesting)](#4-incorvo-research-studio-vs-usertesting)
-5. [Product Sampling Operations (vs Bazaarvoice)](#5-product-sampling-operations-vs-bazaarvoice)
-6. [Content Studio & Creator CRM](#6-content-studio--creator-crm)
-7. [Field Operations & Retail Geofencing (vs Field Agent)](#7-field-operations--retail-geofencing-vs-field-agent)
-8. [Partner & Affiliate Attribution (vs impact.com)](#8-partner--affiliate-attribution-vs-impactcom)
-9. [Sales Enablement & Certification (vs PickMyWork)](#9-sales-enablement--certification-vs-pickmywork)
-10. [Industry Benchmarking & CPVA Analytics](#10-industry-benchmarking--cpva-analytics)
-11. [Managed Campaign Operations (White-Glove Tier)](#11-managed-campaign-operations-white-glove-tier)
-12. [Lead Qualification & Phone Verification](#12-lead-qualification--phone-verification)
-13. [Participant Mission Discovery Feed](#13-participant-mission-discovery-feed)
-14. [Participant Digital Wallet & Double-Entry Balance](#14-participant-digital-wallet--double-entry-balance)
-15. [Participant Training Academy](#15-participant-training-academy)
-16. [Local Merchant QR Offers & In-Store Discovery (vs magicpin)](#16-local-merchant-qr-offers--in-store-discovery-vs-magicpin)
-17. [Admin Operations & Manual Payout Hub](#17-admin-operations--manual-payout-hub)
-18. [Supply Density Heatmap & Regional Fulfillment](#18-supply-heatmap--regional-fulfillment)
-19. [Risk Intelligence & Anti-Fraud Graph](#19-risk-intelligence--anti-fraud-graph)
-20. [Dispute Resolution & Evidence Arbitrage](#20-dispute-resolution--evidence-arbitrage)
-21. [Campaign Pricing & Economics Calculator](#21-campaign-pricing--economics-calculator)
-22. [Vendor Pilot Application Portal](#22-vendor-pilot-application-portal)
-23. [Participant Early Access Onboarding (DPDP 2023 Compliant)](#23-participant-early-access-onboarding-dpdp-2023-compliant)
+| # | Feature / Specialist Module | Screenshot Reference | Direct Code & Specification Reference |
+| :---: | :--- | :--- | :--- |
+| **1** | **Erah AI Multimodal Assistant** | `01_homepage_hero.png` | [`ErahCharacter.tsx`](apps/web/src/components/common/ErahCharacter.tsx), [`router.py`](services/api/app/api/v1/erah/router.py) |
+| **2** | **Vendor Executive Overview** | `02_vendor_overview.png` | [`overview/page.tsx`](apps/web/src/app/vendor/overview/page.tsx), [`vendors.py`](services/api/app/api/v1/vendors.py) |
+| **3** | **Campaign Creation Wizard** | `03_campaign_builder.png` | [`create-campaign/page.tsx`](apps/web/src/app/vendor/create-campaign/page.tsx), [`campaign_operations_handbook.md`](docs/campaign_operations_handbook.md) |
+| **4** | **Incorvo Research Studio** | `04_research_studio.png` | [`research-studio/page.tsx`](apps/web/src/app/vendor/research-studio/page.tsx), [`research_studio.py`](services/api/app/api/v1/research_studio.py) |
+| **5** | **Product Sampling Operations** | `05_sampling_operations.png` | [`sampling/page.tsx`](apps/web/src/app/vendor/sampling/page.tsx), [`sampling.py`](services/api/app/api/v1/sampling.py) |
+| **6** | **Content Studio & Creator CRM** | `06_content_studio.png` | [`content-studio/page.tsx`](apps/web/src/app/vendor/content-studio/page.tsx), [`content-rights-policy`](apps/web/src/app/content-rights-policy/page.tsx) |
+| **7** | **Field Operations & Geofencing** | `07_field_operations.png` | [`field-ops/page.tsx`](apps/web/src/app/vendor/field-ops/page.tsx), [`field_operations.py`](services/api/app/api/v1/field_operations.py) |
+| **8** | **Partner & Affiliate Attribution** | `08_partner_attribution.png` | [`partners/page.tsx`](apps/web/src/app/vendor/partners/page.tsx), [`partner_attribution.py`](services/api/app/api/v1/partner_attribution.py) |
+| **9** | **Sales Enablement & Academy** | `09_sales_enablement.png` | [`sales-enablement/page.tsx`](apps/web/src/app/vendor/sales-enablement/page.tsx), [`academy/page.tsx`](apps/web/src/app/participant/academy/page.tsx) |
+| **10** | **Industry Benchmarking & CPVA** | `10_industry_benchmarks.png` | [`benchmarks/page.tsx`](apps/web/src/app/vendor/benchmarks/page.tsx), [`benchmarks.py`](services/api/app/api/v1/benchmarks.py) |
+| **11** | **Managed Operations (Concierge)** | `11_managed_operations.png` | [`managed-ops/page.tsx`](apps/web/src/app/vendor/managed-ops/page.tsx), [`managed_ops.py`](services/api/app/api/v1/managed_ops.py) |
+| **12** | **Lead Qualification & Phone OTP** | `12_lead_qualification.png` | [`leads/page.tsx`](apps/web/src/app/vendor/leads/page.tsx), [`leads.py`](services/api/app/api/v1/leads.py) |
+| **13** | **Participant Mission Discovery** | `13_participant_discover.png` | [`discover/page.tsx`](apps/web/src/app/participant/discover/page.tsx), [`missions.py`](services/api/app/api/v1/missions.py) |
+| **14** | **Participant Digital Wallet** | `14_participant_wallet.png` | [`wallet/page.tsx`](apps/web/src/app/participant/wallet/page.tsx), [`reward-and-payout-policy`](apps/web/src/app/reward-and-payout-policy/page.tsx) |
+| **15** | **Participant Training Academy** | `15_training_academy.png` | [`academy/page.tsx`](apps/web/src/app/participant/academy/page.tsx), [`sales_enablement.py`](services/api/app/api/v1/sales_enablement.py) |
+| **16** | **Local Merchant QR Offers** | `16_local_offers.png` | [`offers/page.tsx`](apps/web/src/app/participant/offers/page.tsx) |
+| **17** | **Admin Manual Payout Hub** | `17_admin_operations_hub.png` | [`operations-hub/page.tsx`](apps/web/src/app/admin/operations-hub/page.tsx), [`ledger_service.py`](services/api/app/services/ledger_service.py) |
+| **18** | **Supply Density Heatmap** | `18_supply_heatmap.png` | [`supply/page.tsx`](apps/web/src/app/admin/supply/page.tsx), [`participant_recruitment_verification_plan.md`](docs/participant_recruitment_verification_plan.md) |
+| **19** | **Risk Intelligence & Fraud Graph** | `19_risk_intelligence.png` | [`risk-intelligence/page.tsx`](apps/web/src/app/admin/risk-intelligence/page.tsx), [`fraud.py`](services/api/app/models/fraud.py) |
+| **20** | **Dispute Resolution Console** | `20_dispute_resolution.png` | [`disputes/page.tsx`](apps/web/src/app/admin/disputes/page.tsx), [`disputes.py`](services/api/app/api/v1/disputes.py) |
+| **21** | **Campaign Pricing Calculator** | `21_pricing_calculator.png` | [`pricing-calculator/page.tsx`](apps/web/src/app/pricing-calculator/page.tsx), [`campaign_pricing_unit_economics_calculator.md`](docs/campaign_pricing_unit_economics_calculator.md) |
+| **22** | **Vendor Pilot Application** | `22_vendor_pilot_application.png` | [`vendor-application/page.tsx`](apps/web/src/app/vendor-application/page.tsx), [`vendor_discovery_questionnaire.md`](docs/vendor_discovery_questionnaire.md) |
+| **23** | **Participant Early Access (DPDP)** | `23_early_access_onboarding.png` | [`early-access/page.tsx`](apps/web/src/app/early-access/page.tsx), [`privacy/page.tsx`](apps/web/src/app/privacy/page.tsx) |
 
 ---
 
