@@ -1,0 +1,52 @@
+{
+  "common": {
+    "platformName": "Incorvo Reach",
+    "tagline": "Verifizierte Aktionen. Messbares Wachstum.",
+    "parentCompany": "Quenix Analytics Private Limited",
+    "getStarted": "Jetzt starten",
+    "signIn": "Anmelden",
+    "register": "Registrieren",
+    "dashboard": "Dashboard",
+    "viewAll": "Alle anzeigen",
+    "submit": "Absenden",
+    "cancel": "Abbrechen",
+    "save": "Änderungen speichern",
+    "loading": "Laden...",
+    "search": "Suchen...",
+    "changeLanguage": "Sprache ändern",
+    "selectPreferredLanguage": "Wählen Sie Ihre bevorzugte Sprache",
+    "selectLanguageHelp": "Sie können dies jederzeit im Sprachmenü ändern.",
+    "suggestedForYou": "Für Ihre Region empfohlen"
+  },
+  "nav": {
+    "forBusinesses": "Für Unternehmen",
+    "earnRewards": "Belohnungen verdienen",
+    "campaignTypes": "Kampagnentypen",
+    "howItWorks": "So funktioniert's",
+    "pricing": "Preise",
+    "trustAndSafety": "Vertrauen & Sicherheit",
+    "vendorPortal": "Unternehmensbereich",
+    "participantPortal": "Teilnehmer-Hub",
+    "adminPortal": "Admin-Konsole"
+  },
+  "hero": {
+    "badge": "ENTERPRISE-MARKTPLATZ FÜR VERIFIZIERTE AKTIONEN",
+    "title": "Verwandeln Sie echte Aufmerksamkeit in",
+    "titleHighlight": "Messbare Geschäftsergebnisse",
+    "description": "Die führende Plattform für authentische UGC-Inhalte, Verbraucherforschung, Filialbesuch-Audits und qualifizierte Kundenakquise mit digitalem Nachweis.",
+    "launchPilot": "Pilotprojekt beantragen",
+    "joinEarlyAccess": "Frühzugang beitreten"
+  },
+  "erah": {
+    "name": "Erah AI",
+    "greeting": "Hallo! Ich bin Erah. Wie kann ich Ihnen heute helfen?",
+    "speechBubble": "Hallo! Ich bin Erah, Ihre Incorvo Reach KI-Assistentin. Tippen Sie, um zu sprechen oder zu chatten!",
+    "askPlaceholderVendor": "Fragen Sie Erah nach Kampagnenentwürfen oder Budgetberechnungen...",
+    "askPlaceholderParticipant": "Fragen Sie nach Aufgaben, Auszahlungen oder Richtlinien...",
+    "askPlaceholderVisitor": "Fragen Sie Erah alles über Incorvo Reach...",
+    "listening": "Ich höre auf Deutsch zu... Sprechen Sie jetzt.",
+    "thinking": "Erah analysiert Wissen & Richtlinien...",
+    "wasThisHelpful": "War das hilfreich?",
+    "sources": "Quellen:"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "common": {
+    "platformName": "Incorvo Reach",
+    "tagline": "सत्यापित कार्य। मापने योग्य विकास।",
+    "parentCompany": "Quenix Analytics Private Limited",
+    "getStarted": "शुरू करें",
+    "signIn": "साइन इन करें",
+    "register": "रजिस्टर करें",
+    "dashboard": "डैशबोर्ड",
+    "viewAll": "सभी देखें",
+    "submit": "जमा करें",
+    "cancel": "रद्द करें",
+    "save": "परिवर्तन सहेजें",
+    "loading": "लोड हो रहा है...",
+    "search": "खोजें...",
+    "changeLanguage": "भाषा बदलें",
+    "selectPreferredLanguage": "अपनी पसंदीदा भाषा चुनें",
+    "selectLanguageHelp": "आप इसे कभी भी भाषा मेनू से बदल सकते हैं।",
+    "suggestedForYou": "आपके क्षेत्र के लिए अनुशंसित"
+  },
+  "nav": {
+    "forBusinesses": "व्यवसायों के लिए",
+    "earnRewards": "इनाम कमाएं",
+    "campaignTypes": "अभियान प्रकार",
+    "howItWorks": "यह कैसे काम करता है",
+    "pricing": "मूल्य निर्धारण",
+    "trustAndSafety": "विश्वास और सुरक्षा",
+    "vendorPortal": "वेंडर कार्यक्षेत्र",
+    "participantPortal": "पार्टिसिपेंट हब",
+    "adminPortal": "एडमिन कंसोल"
+  },
+  "hero": {
+    "badge": "एंटरप्राइज एक्शन मार्केटप्लेस",
+    "title": "वास्तविक ग्राहक ध्यान को बदलें",
+    "titleHighlight": "मापने योग्य व्यावसायिक परिणामों में",
+    "description": "ओरिजिनल यूजीसी कंटेंट, कंज्यूमर रिसर्च, स्टोर चेक-इन ऑडिट और सत्यापित ग्राहक अधिग्रहण के लिए अग्रणी मंच।",
+    "launchPilot": "पायलट के लिए आवेदन करें",
+    "joinEarlyAccess": "अर्ली एक्सेस से जुड़ें"
+  },
+  "erah": {
+    "name": "Erah AI",
+    "greeting": "नमस्ते! मैं Erah हूँ। आज मैं आपकी क्या मदद कर सकती हूँ?",
+    "speechBubble": "नमस्ते! मैं Erah हूँ, आपकी Incorvo Reach AI सहायक। बात करने या चैट करने के लिए टैप करें!",
+    "askPlaceholderVendor": "अभियान ड्राफ्ट या बजट की गणना के लिए Erah से पूछें...",
+    "askPlaceholderParticipant": "टास्क, पेआउट या नियमों के बारे में पूछें...",
+    "askPlaceholderVisitor": "Incorvo Reach के बारे में कुछ भी पूछें...",
+    "listening": "हिंदी में सुन रही हूँ... बोलिए।",
+    "thinking": "Erah विश्लेषण कर रही है...",
+    "wasThisHelpful": "क्या यह मददगार था?",
+    "sources": "स्रोत:"
+  }
+}

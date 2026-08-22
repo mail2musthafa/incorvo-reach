@@ -1,0 +1,52 @@
+{
+  "common": {
+    "platformName": "Incorvo Reach",
+    "tagline": "Verified Actions. Measurable Growth.",
+    "parentCompany": "Quenix Analytics Private Limited",
+    "getStarted": "Get Started",
+    "signIn": "Sign In",
+    "register": "Register",
+    "dashboard": "Dashboard",
+    "viewAll": "View All",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save Changes",
+    "loading": "Loading...",
+    "search": "Search...",
+    "changeLanguage": "Change Language",
+    "selectPreferredLanguage": "Choose your preferred language",
+    "selectLanguageHelp": "You can change this anytime from the language menu.",
+    "suggestedForYou": "Suggested for your region"
+  },
+  "nav": {
+    "forBusinesses": "For Businesses",
+    "earnRewards": "Earn Rewards",
+    "campaignTypes": "Campaign Types",
+    "howItWorks": "How It Works",
+    "pricing": "Pricing",
+    "trustAndSafety": "Trust & Safety",
+    "vendorPortal": "Vendor Workspace",
+    "participantPortal": "Participant Hub",
+    "adminPortal": "Admin Console"
+  },
+  "hero": {
+    "badge": "ENTERPRISE TWO-SIDED ACTION MARKETPLACE",
+    "title": "Turn Real Human Attention into",
+    "titleHighlight": "Verified Business Outcomes",
+    "description": "The enterprise platform for original UGC content, consumer research, retail footfall audits, and qualified customer acquisition with cryptographic proof.",
+    "launchPilot": "Apply for a Pilot",
+    "joinEarlyAccess": "Join Early Access"
+  },
+  "erah": {
+    "name": "Erah AI",
+    "greeting": "Hi! I’m Erah. How can I help you today?",
+    "speechBubble": "Hi! I’m Erah, your Incorvo Reach AI assistant. Tap to speak or chat!",
+    "askPlaceholderVendor": "Ask Erah to create a draft or calculate budget...",
+    "askPlaceholderParticipant": "Ask about tasks, payouts, or rules...",
+    "askPlaceholderVisitor": "Ask Erah anything about Incorvo Reach...",
+    "listening": "Listening in English... Speak now.",
+    "thinking": "Erah is analyzing knowledge & policies...",
+    "wasThisHelpful": "Was this helpful?",
+    "sources": "Sources:"
+  }
+}

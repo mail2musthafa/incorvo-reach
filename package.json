@@ -1,0 +1,19 @@
+{
+  "name": "incorvo-reach-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev:web": "cd apps/web && npm run dev",
+    "build:web": "cd apps/web && npm run build",
+    "test:web": "cd apps/web && npm run test",
+    "lint:web": "cd apps/web && npm run lint",
+    "type-check:web": "cd apps/web && npm run type-check",
+    "dev:api": "cd services/api && uvicorn app.main:app --reload --port 8000",
+    "test:api": "cd services/api && pytest -v",
+    "seed:api": "cd services/api && python -m app.seed.seed_data"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}

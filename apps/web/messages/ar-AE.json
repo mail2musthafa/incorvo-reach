@@ -1,0 +1,52 @@
+{
+  "common": {
+    "platformName": "Incorvo Reach",
+    "tagline": "إجراءات موثقة. نمو قابل للقياس.",
+    "parentCompany": "Quenix Analytics Private Limited",
+    "getStarted": "ابدأ الآن",
+    "signIn": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "dashboard": "لوحة التحكم",
+    "viewAll": "عرض الكل",
+    "submit": "إرسال",
+    "cancel": "إلغاء",
+    "save": "حفظ التغييرات",
+    "loading": "جارٍ التحميل...",
+    "search": "بحث...",
+    "changeLanguage": "تغيير اللغة",
+    "selectPreferredLanguage": "اختر لغتك المفضلة",
+    "selectLanguageHelp": "يمكنك تغيير هذا في أي وقت من قائمة اللغات.",
+    "suggestedForYou": "مقترح لمنطقتك"
+  },
+  "nav": {
+    "forBusinesses": "للشركات والأعمال",
+    "earnRewards": "كسب المكافآت",
+    "campaignTypes": "أنواع الحملات",
+    "howItWorks": "كيف يعمل",
+    "pricing": "الأسعار",
+    "trustAndSafety": "الثقة والأمان",
+    "vendorPortal": "مساحة عمل الشركاء",
+    "participantPortal": "بوابة المشاركين",
+    "adminPortal": "لوحة الإدارة"
+  },
+  "hero": {
+    "badge": "منصة إجراءات العملاء الموثقة للمؤسسات",
+    "title": "حوّل اهتمام العملاء الحقيقي إلى",
+    "titleHighlight": "نتائج أعمال قابلة للقياس والتوثيق",
+    "description": "المنصة الرائدة للمحتوى الأصلي من المستخدمين (UGC)، وأبحاث المستهلكين، وتدقيق زيارات المتاجر، واكتساب العملاء الموثق بإثبات رقمي.",
+    "launchPilot": "التقديم على برنامج تجريبي",
+    "joinEarlyAccess": "الانضمام إلى الوصول المبكر"
+  },
+  "erah": {
+    "name": "Erah AI",
+    "greeting": "مرحباً! أنا Erah. كيف يمكنني مساعدتك اليوم؟",
+    "speechBubble": "مرحباً! أنا Erah، مساعدك الذكي في Incorvo Reach. اضغط للتحدث أو الدردشة!",
+    "askPlaceholderVendor": "اطلب من Erah إنشاء مسودة حملة أو حساب الميزانية...",
+    "askPlaceholderParticipant": "اسأل عن المهام أو المكافآت أو السياسات...",
+    "askPlaceholderVisitor": "اسأل Erah أي شيء حول Incorvo Reach...",
+    "listening": "أستمع باللغة العربية... تحدث الآن.",
+    "thinking": "Erah تقوم بتحليل السياسات والمعلومات...",
+    "wasThisHelpful": "هل كان هذا الرد مفيداً؟",
+    "sources": "المصادر:"
+  }
+}

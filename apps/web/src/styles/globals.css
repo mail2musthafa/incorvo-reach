@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 247 248 252;
+    --foreground: 15 23 42;
+    --card: 255 255 255;
+    --card-foreground: 15 23 42;
+    --primary: 102 87 245;
+    --primary-foreground: 255 255 255;
+    --border: 226 232 240;
+  }
+
+  body {
+    @apply bg-[#F7F8FC] text-[#0F172A] font-sans antialiased min-h-screen selection:bg-brand-violet selection:text-white;
+  }
+}
+
+@layer utilities {
+  .glass-header {
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+  }
+  
+  .gradient-brand {
+    background: linear-gradient(135deg, #6657F5 0%, #3B82F6 100%);
+  }
+
+  .gradient-subtle {
+    background: linear-gradient(180deg, rgba(102, 87, 245, 0.04) 0%, rgba(59, 130, 246, 0.02) 100%);
+  }
+
+  .gradient-text {
+    background: linear-gradient(135deg, #6657F5 0%, #2563EB 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  @keyframes erahHoverFloat {
+    0%, 100% {
+      transform: translateY(0px) rotate(0deg);
+    }
+    50% {
+      transform: translateY(-6px) rotate(0.8deg);
+    }
+  }
+
+  @keyframes erahPointGesture {
+    0%, 100% {
+      transform: rotate(0deg);
+    }
+    50% {
+      transform: rotate(-4deg) translateY(-2px);
+    }
+  }
+
+  @keyframes erahWandWave {
+    0%, 100% {
+      transform: rotate(0deg) scale(1);
+    }
+    25% {
+      transform: rotate(10deg) scale(1.05);
+    }
+    75% {
+      transform: rotate(-8deg) scale(1.02);
+    }
+  }
+
+  @keyframes erahCapeWave {
+    0%, 100% {
+      transform: scaleX(1) skewY(0deg);
+    }
+    50% {
+      transform: scaleX(1.04) skewY(1.5deg);
+    }
+  }
+
+  .animate-erah-float {
+    animation: erahHoverFloat 3.8s ease-in-out infinite;
+  }
+
+  .animate-erah-point {
+    transform-origin: 96px 78px;
+    animation: erahPointGesture 2.4s ease-in-out infinite;
+  }
+
+  .animate-erah-wand {
+    transform-origin: 34px 98px;
+    animation: erahWandWave 3s ease-in-out infinite;
+  }
+
+  .animate-erah-cape {
+    transform-origin: top center;
+    animation: erahCapeWave 3.2s ease-in-out infinite;
+  }
+}
